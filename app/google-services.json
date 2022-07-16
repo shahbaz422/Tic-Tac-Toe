@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "113121511216",
+    "firebase_url": "https://gamettt-b7471-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gamettt-b7471",
+    "storage_bucket": "gamettt-b7471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113121511216:android:8cea6a9f92aa4d0f262af5",
+        "android_client_info": {
+          "package_name": "com.example.loginscreenusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZH6aIVCnX9QJ2fqm3G-SlbU5pR2bvXlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113121511216:android:27710c6cfa394f71262af5",
+        "android_client_info": {
+          "package_name": "com.example.onlinetictactoegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZH6aIVCnX9QJ2fqm3G-SlbU5pR2bvXlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113121511216:android:19b6055a77600a84262af5",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZH6aIVCnX9QJ2fqm3G-SlbU5pR2bvXlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113121511216-c1cbao9thtjfoo7hdv9mslbjbi8n13v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
